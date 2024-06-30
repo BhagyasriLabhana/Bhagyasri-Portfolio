@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-image {
+    background-image: url("https://directlinedev.com/media/cases/rooney/header/background_1_zM58lsj.wide.jpeg");
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+.Student {
+    color: gold;
+}
+
+.details-card {
+
+    text-align: right;
+    padding: 20px;
+    margin: 20px;
+}
+
+.greet {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 50px;
+}
+
+.desc {
+    color: white;
+    font-size: 24px;
+    font-family: "Bree Serif";
+}
+
+.Interest {
+    color: gold;
+}
+
+.button {
+    border-radius: 6px;
+}
+
+.about-card {
+
+    border-radius: 10px;
+    color: grey;
+
+    width: 100%;
+}
+
+.about-heading {
+    font-family: "Bree Serif";
+    color: #1A237E;
+}
+
+.horizontal-line {
+    width: 100%;
+    background-color: grey;
+}
+
+.Skills-card {
+    color: grey;
+    height: 100%;
+
+}
+
+.Skills-heading {
+    color: #1A237E;
+    font-family: "Bree Serif";
+}
+
+.skill-card {
+    text-align: center;
+
+}
+
+.company {
+    color: #E64A19;
+    font-weight: bold;
+
+
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.exp {
+    color: #283593;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.details {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.name {
+    color: grey;
+}
+
+.work-experience {
+    color: #1A237E;
+    font-family: "Bree Serif";
+}
+
+.contact-head {
+    color: #1A237E;
+    font-family: "Bree Serif";
+    padding: 10px;
+}
+
+.icon-container {
+
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+    border-radius: 70px;
+    padding: 15px;
+    text-align: center;
+}
+
+.icon {
+    font-size: 45px;
+
+}
+
+.footer-card {
+    background-color: #E0E0E0;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer {
+    font-family: "Bree Serif";
+}
+
+.addr {
+    font-family: "Bree Serif";
+}
+
+.mail {
+    font-family: "Bree Serif";
+}
